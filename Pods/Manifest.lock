@@ -1,0 +1,16 @@
+PODS:
+  - Converter (0.0.1)
+
+DEPENDENCIES:
+  - Converter (from `./LDCocoaPods/Projects/Converter`)
+
+EXTERNAL SOURCES:
+  Converter:
+    :path: "./LDCocoaPods/Projects/Converter"
+
+SPEC CHECKSUMS:
+  Converter: 39fcc1db98ca8b26b870e9d1e75b5fcc10505fbc
+
+PODFILE CHECKSUM: 8a03e1efde1350cacba80d5929bf44c6e38186d8
+
+COCOAPODS: 1.5.0
